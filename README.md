@@ -43,3 +43,6 @@ The project was designed and tested using Tinkercad Circuits.
 ## Author
 
 Yogirawat999
+## Circuit Diagram
+
+![Smart Parking System Circuit](smart-parking-circuit.png)
